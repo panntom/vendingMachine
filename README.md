@@ -5,5 +5,5 @@
 - Member 2: Nguyen Tran My Hoa - 26749491
 
 ## How to run
-Compile: javac *.java
-Run: java VendingMachine
+javac *.java
+java VendingMachineGUI
